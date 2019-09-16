@@ -5,7 +5,6 @@ cURL, which stands for client URL and can be written as curl, is a command line 
 It supports a number of protocols including HTTP, HTTPS, FTP, and many more. HTTP/HTTPS makes it a great candidate for interacting with APIs.
 
 
-
 QUESTION 3
 > GET /odetocode.jpg HTTP/1.1
 > Host: odetocode.com
@@ -23,16 +22,6 @@ QUESTION 3
 < Date: Mon, 16 Sep 2019 09:59:39 GMT
 
 
-QUESTION 4
-
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>301 Moved Permanently</title>
-</head><body>
-<h1>Moved Permanently</h1>
-<p>The document has moved <a href="https://www.jmarshall.com/easy/http/">here</a>.</p>
-</body></html>
-
-
-
-http://www.duckduckgo.com
+QUESTION 8 
+https://www.irishtimes.com/
+108 REQUESTS
